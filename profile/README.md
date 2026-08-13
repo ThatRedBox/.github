@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="../brand/Redbox_logo.svg" alt="Red[box]" width="420">
-</p>
+![Redbox logo](../brand/Redbox_logo_dark.svg)
 
-**Red[box]** is [Edgeberry](https://github.com/Edgeberry) hardware, purpose-built for
-[Node-RED](https://nodered.org): a Raspberry Pi Zero 2 W fitted with Edgeberry's **Edge Explorer**
-hardware cartridge, running Node-RED as its one application.
-
-Where Edgeberry is the general-purpose device platform, Red[box] is a single opinionated build on
-top of it — unbox it, power it up, and start wiring flows. The Edge Explorer cartridge brings the
-I/O (GPIO, sensors, relays) that flows typically need, and Edgeberry's device interface is dressed
-in the Red[box] brand alongside the Node-RED editor itself.
-
+**"What's that red box?"**, you ask? That **Red[box]** is a Raspberry Pi™ made IoT-ready with the [Edgeberry](https://github.com/Edgeberry) ecosystem, loaded with the [Edge Explorer Hardware Cartridge](https://github.com/ThatRedBox) providing it with the JST-4 pin connector standard for compatibility with a wide range of hardware breakout ecosystems, purpose-built for [Node-RED](https://nodered.org).
