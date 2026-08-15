@@ -1,6 +1,6 @@
 ![Redbox logo](../brand/Redbox_banner.png)
 
-<img src="https://github.com/ThatRedBox/.github/blob/main/Documentation/ThatRedBox.png?raw=true" align="right" width="40%"/>
+<img src="https://github.com/ThatRedBox/.github/blob/main/documentation/ThatRedBox.png?raw=true" align="right" width="40%"/>
 
 **"What's that red box?"** you ask? The **Red[box]** is the brain embedded into your creations that brings them to life! When your ideas require interactivity that's not just a screen, and maybe not even grounded in one single thing or location. Risen from the mind of a crazy inventor experienced in building interactive museum exhibits, the _Red[Box]_ ecosystem gives you access to the necessary complexity in a simple yet robust package.
 
