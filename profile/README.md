@@ -6,8 +6,8 @@
 
 #### Features
 - **Raspberry Pi equipped with Edgeberry** provide a robust and reliable computer system ready to be build into your creations.
-- **Node-RED** for visually wiring your ideas and watch them unfold in real-time.
-- **Edge Explorer Hardware Cartridge** direct compatibility with a wide range of sensors and actuators from several ecosystems.
+- **Node-RED** allows you to visually program your ideas and watch them unfold in real-time.
+- **Direct compatibility with a wide range of sensors and actuators** from several ecosystems through the Redbox Hardware Cartridge.
 - **You are in control**. You own every bit of hardware, software and on-prem/cloud infrastructure. No black boxes, everything open source.
 
 <br clear="right"/>
