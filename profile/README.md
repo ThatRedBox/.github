@@ -7,7 +7,7 @@
 #### Features
 - **A reliable, robust computer system** ready to build into your creations. [Raspberry Pi](https://raspberrypi.com) equipped with [Edgeberry](https://github.com/Edgeberry) provide a solid foundation for building your craziest ideas upon.
 - **Visual programming and real-time insight** with [Node-RED](https://nodered.org). Wide community support, and no special tools or licenses required.
-- **Compatibile with a wide range of sensors and actuators** from several widely used ecosystems through the [Redbox Hardware Cartridge](https://github.com/ThatRedBox/).
+- **Compatibile with a wide range of sensors and actuators** from several widely used ecosystems through the [Hardware Cartridge](https://github.com/ThatRedBox/Redbox-Explorer-Hardware-Cartridge) for limitless interactivity.
 - **You are in control**. You own every bit of hardware, software and on-prem/cloud infrastructure. No black boxes, everything open source.
 
 <br clear="right"/>
