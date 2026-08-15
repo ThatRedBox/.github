@@ -6,7 +6,7 @@
 
 #### Features
 - **Raspberry Pi equipped with Edgeberry** provide a robust and reliable computer system ready to be build into your creations.
-- **Node-RED** for visually wiring your ideas. 
+- **Node-RED** for visually wiring your ideas and watch them unfold in real-time.
 - **Edge Explorer Hardware Cartridge** direct compatibility with a wide range of sensors and actuators from several ecosystems.
 - **On premis or in the cloud** both are possible.
 - **Open Source** never get locked-out of your project. You own it.
