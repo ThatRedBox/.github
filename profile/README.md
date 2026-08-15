@@ -1,13 +1,13 @@
 ![Redbox logo](../brand/Redbox_banner.png)
 
-<img src="https://github.com/ThatRedBox/.github/blob/main/documentation/ThatRedBox.png?raw=true" align="right" width="40%"/>
+<img src="https://github.com/ThatRedBox/.github/blob/main/Documentation/ThatRedBox.png?raw=true" align="right" width="40%"/>
 
 **"What's that red box?"** you ask? The **Red[box]** is the brain embedded into your creations that brings them to life! When your ideas require interactivity that's not just a screen, and maybe not even grounded in one single thing or location. Risen from the mind of a crazy inventor experienced in building interactive museum exhibits, the _Red[Box]_ ecosystem gives you access to the necessary complexity in a simple yet robust package.
 
 #### Features
 - **A reliable, robust computer system** ready to build into your creations. [Raspberry Pi](https://raspberrypi.com) equipped with [Edgeberry](https://github.com/Edgeberry) provide a solid foundation for building your craziest ideas upon.
 - **Visual programming and real-time insight** with [Node-RED](https://nodered.org), an industry-trusted open-source platform with strong community support, requiring no special tools or licenses.
-- **Compatibile with a wide range of sensors and actuators** from several popular ecosystems (e.g., Grove, [Crowtail](https://www.elecrow.com/steam-education/crowtail.html), ... ) through the [Hardware Cartridge](https://github.com/ThatRedBox/Redbox-Explorer-Hardware-Cartridge) allowing for limitless interactivity.
+- **Compatibile with a wide range of sensors and actuators** from several popular ecosystems (e.g., Grove, [Crowtail](https://www.elecrow.com/steam-education/crowtail.html), ... ) through the [Hardware Cartridge](https://github.com/ThatRedBox/Redbox-Explorer-Hardware-Cartridge) allowing for limitless interactivity possibilities.
 - **You are in control**. You own every bit of hardware, software and on-prem/cloud infrastructure. No black boxes, everything open source.
 
 <br clear="right"/>
@@ -17,17 +17,17 @@ Ater setting up the Edgeberry ecosystem for your devices and server lorem ipsum 
 
 ### Devices
 
-On your device, run the installer for the Redbox ecosystem:
+To set up a single Redbox device, run the installer from the commandline:
 
 ```bash
 wget -O install.sh https://github.com/ThatRedBox/Redbox-setup-nodered/releases/latest/download/install.sh
 chmod +x ./install.sh
 sudo ./install.sh
 ```
-In the browser ... lorem ipsum ...
+In the browser
 
 ### Server
-When you have several devices that need to talk to each other, you can add in the server:
+When you want to several devices talking to each other, you can add in the server:
 ```
 Todo
 ```
