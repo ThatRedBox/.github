@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ThatRedBox/.github/blob/main/documentation/ThatRedBox.png?raw=true" align="right" width="40%"/>
 
-**"What's that red box?"** you ask? The **Red[box]** is the brain embedded into your creations that brings them to life! When your ideas require interactivity that's not just a screen, and maybe not even grounded in one single thing or location. Risen from the mind of a crazy inventor experienced in building interactive museum exhibits, the _Red[Box]_ ecosystem provides you the necessary complexity in a simple yet robust package.
+**"What's that red box?"** you ask? The **Red[box]** is the brain embedded into your creations that brings them to life! When your ideas require interactivity that's not just a screen, and maybe not even grounded in one single thing or location. Risen from the mind of a crazy inventor experienced in building interactive museum exhibits, the _Red[Box]_ ecosystem gives you access to the necessary complexity in a simple yet robust package.
 
 #### Features
 - **A reliable, robust computer system** ready to build into your creations. [Raspberry Pi](https://raspberrypi.com) equipped with [Edgeberry](https://github.com/Edgeberry) provide a solid foundation for building your craziest ideas upon.
