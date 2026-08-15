@@ -4,6 +4,13 @@
 
 **"What's that red box?"**, you ask? That **Red[box]** is a Raspberry Pi™ made IoT-ready with the [Edgeberry](https://github.com/Edgeberry) ecosystem, loaded with the [Edge Explorer Hardware Cartridge](https://github.com/ThatRedBox) providing it with the JST-4 pin connector standard for compatibility with a wide range of hardware breakout ecosystems, purpose-built for [Node-RED](https://nodered.org). If those words sound familiar, you know we're talking about an engineering playground for creating digital interactive experiences!
 
+#### Features
+- **Raspberry Pi equipped with Edgeberry** provide a robust computer system.
+- **Node-RED** for visually wiring your ideas. 
+- **Edge Explorer Hardware Cartridge** direct compatibility with a wide range of sensors and actuators from several ecosystems.
+- **On premis or in the cloud** both are possible.
+- **Open Source** never get locked-out of your project. You own it.
+
 <br clear="right"/>
 
 ## Getting Started
@@ -24,7 +31,7 @@ In the browser ... lorem ipsum ...
 ToDo
 
 ### Demo
-New to Redbox? Check out the demo [Demo project](https://github.com/ThatRedBox/Redbox-demo)!
+New to Redbox? Catch the vibe with this [demo project](https://github.com/ThatRedBox/Redbox-demo)!
 
 
 <hr/>
