@@ -27,7 +27,10 @@ sudo ./install.sh
 In the browser ... lorem ipsum ...
 
 ### Server
-ToDo
+When you have several devices that need to talk to each other, you can add in the server:
+```
+Todo
+```
 
 ### Demo
 New to Redbox? Catch the vibe with this [demo project](https://github.com/ThatRedBox/Redbox-demo)!
