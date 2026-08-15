@@ -6,7 +6,7 @@
 
 #### Features
 - **A reliable, robust computer system** ready to build into your creations. [Raspberry Pi](https://raspberrypi.com) equipped with [Edgeberry](https://github.com/Edgeberry) provide a solid foundation for building your craziest ideas upon.
-- **Visual programming and real-time insight** with [Node-RED](https://nodered.org), an industry-trusted open-source platform with wide community support and requiring no special tools or licenses.
+- **Visual programming and real-time insight** with [Node-RED](https://nodered.org), an industry-trusted open-source platform with strong community support, requiring no special tools or licenses.
 - **Compatibile with a wide range of sensors and actuators** from several popular ecosystems (e.g., Grove, [Crowtail](https://www.elecrow.com/steam-education/crowtail.html), ... ) through the [Hardware Cartridge](https://github.com/ThatRedBox/Redbox-Explorer-Hardware-Cartridge) allowing for limitless interactivity.
 - **You are in control**. You own every bit of hardware, software and on-prem/cloud infrastructure. No black boxes, everything open source.
 
