@@ -13,19 +13,18 @@
 <br clear="right"/>
 
 ## Getting Started
-A Red[box] gets its compute from a [Raspberry Pi](https://www.raspberrypi.com/),that's equipped with the [Edgeberry](https://www.elecrow.com/catalogsearch/result/?q=edgeberry) device suite for robustness, and the [Explorer Hardware Cartridge](https://github.com/ThatRedBox/Redbox-Explorer-Hardware-Cartridge) which allows it to interact with a wide range of sensors and actuators.
+A Red[box] gets its compute from a [Raspberry Pi™](https://www.raspberrypi.com/),that's equipped with the [Edgeberry™](https://www.elecrow.com/catalogsearch/result/?q=edgeberry) device suite for robustness, and the [Explorer Hardware Cartridge](https://github.com/ThatRedBox/Redbox-Explorer-Hardware-Cartridge) which allows it to interact with a wide range of sensors and actuators.
 
-### Device
-With a single Red[box], you can bring a digital mind into your creation. Select sensors and actuators that match your vision for interactivity, and connect them to the device.
+With a single **Red[box]**, you can open up a new dimension into your creations by embedding a digital experience. Select [sensors and actuators](https://www.elecrow.com/catalogsearch/result/?q=+crowtail) that match your vision for interactivity, and directly connect them to the I/O ports of the box.
 
- the installer from the commandline:
+If no software was installed yet, download and execute the installer from the commandline on the device.
 
 ```bash
 wget -O install.sh https://github.com/ThatRedBox/Redbox-setup-nodered/releases/latest/download/install.sh
 chmod +x ./install.sh
 sudo ./install.sh
 ```
-In the browser
+In the browser, open up the `web editor` at `http://[ip address]?view=editor` to start wiring up your logic into the Node-RED flow editor.
 
 ### Server
 When your creation goes beyond one single embodyment, beyond one location, you can use multiple Red[box] devices in each part, with a server for wiring the logic between them and let them talk to each other.
