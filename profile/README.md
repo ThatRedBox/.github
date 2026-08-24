@@ -44,4 +44,4 @@ New to Redbox? Catch the vibe with this [demo project](https://github.com/ThatRe
 
 <hr/>
 
-*Trademark rules and guidelines apply to the **Red[box]** brand
+*Rules and guidelines apply to the usage of the **Red[box]** brand
