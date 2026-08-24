@@ -38,7 +38,7 @@ chmod +x ./install.sh
 sudo ./install.sh
 ```
 
-When the server is up and running, point each **Red[box]** to your server by configuring a `cloud connection`. [Read more...](https://github.com/ThatRedBox/Redbox-setup-server)
+When the server is up and running, point each **Red[box]** to your server by configuring their `cloud connection`. [Read more...](https://github.com/ThatRedBox/Redbox-setup-server)
 
 ### Demo
 New to Redbox? Catch the vibe with this [demo project](https://github.com/ThatRedBox/Redbox-demo)!
