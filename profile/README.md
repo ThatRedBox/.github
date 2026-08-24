@@ -24,10 +24,11 @@ wget -O install.sh https://github.com/ThatRedBox/Redbox-setup-nodered/releases/l
 chmod +x ./install.sh
 sudo ./install.sh
 ```
+
 In the browser, open up the `web editor` at `http://[ip address]?view=editor` to start wiring up your logic into the Node-RED flow editor.
 
-### Server
-When your creation goes beyond one single embodyment, beyond one location, you can use multiple Red[box] devices in each part, with a server for wiring the logic between them and let them talk to each other.
+### Multiple devices
+Of course, in most integrated productions, the experience goes beyond one single creation, even beyond one location. Allow Red[box] devices to communicate with each other by setting up the server and in the same way you embed your logic into the devices, wire your logic into their interactions.
 
 ```
 Todo
