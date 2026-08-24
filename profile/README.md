@@ -43,7 +43,7 @@ New to Redbox? Catch the vibe with this [demo project](https://github.com/ThatRe
 
 ## Support
 
-The Red[box] project is a currated implementation of several open source technologies backed by thriving communities that live on every social media platform. A Red[box] is not a black box, ask your questions online and they will get answered!
+Together we're better. The Red[box] project is a currated implementation of several open source technologies backed by thriving communities that live on every social media platform. A Red[box] is not a black box, ask your questions online and they will get answered! - Totally lost? Start [here](https://www.reddit.com/r/raspberry_pi)
 
 
 <hr/>
