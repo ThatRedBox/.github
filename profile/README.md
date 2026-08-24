@@ -30,6 +30,8 @@ In the browser, open up the `web editor` at `http://[ip address]?view=editor` to
 ### Multiple devices
 Of course, in most integrated productions, the experience goes beyond one single creation, even beyond one location. Allow Red[box] devices to communicate with each other by setting up the server and in the same way you embed your logic into the devices, wire your logic into their interactions.
 
+Whether on a `local network` or in the `cloud`, download and run the installer for the server in the commandline:
+
 ```
 Todo
 ```
