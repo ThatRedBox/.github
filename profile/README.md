@@ -13,11 +13,12 @@
 <br clear="right"/>
 
 ## Getting Started
-Ater setting up the Edgeberry ecosystem for your devices and server lorem ipsum ...
+A Red[box] gets its compute from a [Raspberry Pi](https://www.raspberrypi.com/),that's equipped with the [Edgeberry](https://www.elecrow.com/catalogsearch/result/?q=edgeberry) device suite for robustness, and the [Explorer Hardware Cartridge](https://github.com/ThatRedBox/Redbox-Explorer-Hardware-Cartridge) which allows it to interact with a wide range of sensors and actuators.
 
-### Devices
+### Device
+With a single Red[box], you can bring a digital mind into your creation. Select sensors and actuators that match your vision for interactivity, and connect them to the device.
 
-To set up a single Redbox device, run the installer from the commandline:
+ the installer from the commandline:
 
 ```bash
 wget -O install.sh https://github.com/ThatRedBox/Redbox-setup-nodered/releases/latest/download/install.sh
@@ -27,7 +28,8 @@ sudo ./install.sh
 In the browser
 
 ### Server
-When you want to several devices talking to each other, you can add in the server:
+When your creation goes beyond one single embodyment, beyond one location, you can use multiple Red[box] devices in each part, with a server for wiring the logic between them and let them talk to each other.
+
 ```
 Todo
 ```
