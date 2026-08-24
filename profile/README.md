@@ -28,12 +28,14 @@ sudo ./install.sh
 In the browser, open up the `web editor` at `http://[ip address]?view=editor` to start wiring up your logic with the visual, low-code Node-RED flow editor. [Read more...](https://github.com/ThatRedBox/Redbox-setup-nodered)
 
 ### Multiple devices
-Of course, in most integrated productions, the experience goes beyond one single creation, even beyond one location. Allow Red[box] devices to communicate with each other by setting up the **Red[box] server** and in the same way you embed your logic into the devices, wire your logic into their interactions.
+Of course, in most integrated productions, the envisioned experience goes beyond one single installation, even beyond one location. Allow Red[box] devices to communicate with each other by setting up the **Red[box] server** and in the same way you embed your logic into the devices, wire your logic into their interactions.
 
 Whether on a `local network` or in the `cloud`, download and run the installer for the server in the commandline:
 
 ```bash
-Todo
+wget -O install.sh https://github.com/ThatRedBox/Redbox-setup-server/releases/latest/download/install.sh
+chmod +x ./install.sh
+sudo ./install.sh
 ```
 
 When the server is up and running, point each **Red[box]** to your server by configuring a `cloud connection`. [Read more...](https://github.com/ThatRedBox/Redbox-setup-server)
