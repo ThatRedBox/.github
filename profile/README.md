@@ -36,7 +36,7 @@ Whether on a `local network` or in the `cloud`, download and run the installer f
 Todo
 ```
 
-When the server is up and running, point your **Red[box]**s cloud configurations to the the server. [Read more...](https://github.com/ThatRedBox/Redbox-setup-server)
+When the server is up and running, point each **Red[box]** to your server by configuring a `cloud connection`. [Read more...](https://github.com/ThatRedBox/Redbox-setup-server)
 
 ### Demo
 New to Redbox? Catch the vibe with this [demo project](https://github.com/ThatRedBox/Redbox-demo)!
