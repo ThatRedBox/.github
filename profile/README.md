@@ -41,6 +41,10 @@ When the server is up and running, point your **Red[box]**s cloud configurations
 ### Demo
 New to Redbox? Catch the vibe with this [demo project](https://github.com/ThatRedBox/Redbox-demo)!
 
+## Support
+
+The Red[box] project is a currated implementation of several open source technologies backed by thriving communities that live on every social media platform. A Red[box] is not a black box, ask your questions online and they will get answered!
+
 
 <hr/>
 
