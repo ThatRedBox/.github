@@ -47,6 +47,23 @@ New to Redbox? Catch the vibe with this [demo project](https://github.com/ThatRe
 
 Together we're better. The Red[box] project is a currated implementation of several open source technologies backed by thriving communities that live on every social media platform. A Red[box] is not a black box, ask your questions online and they will get answered! - Totally lost? Start [here](https://www.reddit.com/r/raspberry_pi)
 
+<hr/>
+
+<a href="https://certification.oshwa.org/be000035.html" target="_blank" >
+    <img src="https://github.com/ThatRedBox/.github/blob/main/brand/oshw-certification-mark.png?raw=true" align="left" width="20%"/>
+</a>
+<p>
+    Red[box] is <b>Open Source Hardware</b> certified since August 2026.
+</p>
+<br clear="left"/>
+
+<a href="https://opensource.org/" target="_blank" >
+    <img src="https://i0.wp.com/opensource.org/wp-content/uploads/2023/01/OSI_Horizontal_Logo_0.png?w=1488&quality=80&ssl=1" align="left" width="20%"/>
+</a>
+<p>
+    Red[box] is distributed under <b>Open Source Initiative</b> approved licenses.
+</p>
+<br clear="left"/>
 
 <hr/>
 
