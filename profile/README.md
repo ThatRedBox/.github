@@ -13,7 +13,13 @@
 <br clear="right"/>
 
 ## Getting Started
+
+<img src="https://raw.githubusercontent.com/ThatRedBox/Redbox-Explorer-Hardware-Cartridge/refs/heads/main/Documentation/Redbox_insert_cartridge.png" align="left" width="40%"/>
+
+
 A Red[box] gets its compute from a [Raspberry Pi™](https://www.raspberrypi.com/),that's equipped with the [Edgeberry™](https://www.elecrow.com/catalogsearch/result/?q=edgeberry) device suite for robustness, and the [Explorer Hardware Cartridge](https://github.com/ThatRedBox/Redbox-Explorer-Hardware-Cartridge) which allows it to interact with a wide range of sensors and actuators.
+
+<br clear="left"/>
 
 With a single **Red[box]**, you can open up a new dimension into your creations by embedding a digital experience. Select [sensors and actuators](https://www.elecrow.com/catalogsearch/result/?q=+crowtail) that match your vision for interactivity, and directly connect them to the I/O ports of the box.
 
